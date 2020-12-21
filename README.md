@@ -1,12 +1,16 @@
-# flutter-wordPair_Generator
-My 1st Flutter-Dart App! Made a simple Word-Pair Generator using Flutter SDK and Dart programming language.
+# wordpair_generator
 
-To run the app on your machine:
+A word pair generating application. 
 
-1. Clone this repository into your machine
-2. Open the project in Android Studio. 
-3. Run the main.dart file from lib folder. 
+## Getting Started
 
-Please give your valuable feedback! It will be much appreciated! 
+This project is a starting point for a Flutter application.
 
-Thank you
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
